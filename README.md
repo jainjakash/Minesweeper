@@ -16,6 +16,8 @@ GameTest.java- tests all of the functionality within Minesweeper.java here.
 
 # Images
 
+![](Images/GamePlay.png)
+
 
 
 
